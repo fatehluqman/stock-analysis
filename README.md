@@ -1,4 +1,3 @@
-![VBA_Challenge_2018](https://user-images.githubusercontent.com/62673123/125004513-8aeec580-e00e-11eb-90c9-6804e41e66b9.PNG)
 # stock-analysis
 
 ## Overview of Project
