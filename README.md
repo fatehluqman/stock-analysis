@@ -1,3 +1,4 @@
+![VBA_Challenge_2018](https://user-images.githubusercontent.com/62673123/125004513-8aeec580-e00e-11eb-90c9-6804e41e66b9.PNG)
 # stock-analysis
 
 ## Overview of Project
@@ -18,6 +19,8 @@ TERP was the only company that had negative return in 2017.  TERP return in 2018
 
 The results of the refactored code were significant improved performance over the original code. The original code ran between .929 seconds to .933 seconds compared to the refactored code at just .30 seconds. 
 It was interesting to note that the refactored code when ran for both 2017 and 2018 ran at the same time, however the original code for 2018 ran slightly faster than for 2017.
+![VBA_Challenge_2018](https://user-images.githubusercontent.com/62673123/125004557-a4900d00-e00e-11eb-8f16-0bdf02fde0a0.PNG)
+![VBA_Challenge_2017](https://user-images.githubusercontent.com/62673123/125004563-a8bc2a80-e00e-11eb-8f30-73baeb01d842.PNG)
 
 ## Summary
 
@@ -29,4 +32,5 @@ Disadvantages of refactoring are the time it takes to rewrite the code and durin
 ### Pros/Cons of refactored original VBA script
 There were two advantages to refactoring the code for this project.  First the refactored code ran faster reducing the time to run the program from nearly 1 second to about 1/3 of a second.  
 The second advantage was that the formatting sub routine was included in the refactored code, where in the original code this was separate and needed to eb run separately to format the data accordingly.   
- 
+![green_stock_2017](https://user-images.githubusercontent.com/62673123/125004576-b07bcf00-e00e-11eb-9109-5e4fa2771ae8.PNG)
+![green_stock_2018](https://user-images.githubusercontent.com/62673123/125004585-b40f5600-e00e-11eb-851b-f351a45480d7.PNG)
